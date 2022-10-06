@@ -16,9 +16,6 @@ The words of which the initial letter is capitalized have meanings defined under
 
 For the purposes of this Privacy Policy:
 
-- __Account__ means a unique account created for You to access our Service or parts of our Service.
-
-
 - __Company__ (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to PrivateSearch.
 
 
